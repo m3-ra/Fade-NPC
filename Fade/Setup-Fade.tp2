@@ -80,8 +80,12 @@ END// End of ALWAYS text file copying
 
 
 LANGUAGE ~English~
-         ~english~   
+         ~english~
          ~Fade/Tra/english/setup-fade.tra~
+
+LANGUAGE ~French~
+         ~french~
+         ~Fade/Tra/french/setup-fade.tra~
 
 
 
