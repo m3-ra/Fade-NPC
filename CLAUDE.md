@@ -56,6 +56,17 @@ The GitHub Actions workflow (`.github/workflows/InfinityAutoPackager.yaml`) pack
 
 **Chapter tracking:** EET installs offset chapter numbers by 12 (`bg2_chapter = 12 + i`) to avoid conflicts with BG1 chapters.
 
+## Translations
+
+`Fade/tra/` contains language subdirectories (`english/`, `french/`, etc.), each with:
+- `FADE.TRA` — main string file (~7080 entries, @0–@7079)
+- `SETUP-FADE.TRA` — installer UI strings
+
+**French translation** (`Fade/tra/french/`) is complete as of 2026-04-01. Translation rules used:
+- Informal register, **tu** form (never vous)
+- All WeiDU tokens preserved verbatim: `<CHARNAME>`, `<PRO_HESHE>`, `<PRO_HISHER>`, `[soundfile]` tags, `~` delimiters, `@N` IDs
+- Proper nouns untranslated: character names (Fade, Aran, Imoen, Irenicus, Bodhi, Rasaad, Dorn, etc.), place names (Athkatla, Faerûn, Calimport, etc.), game mechanics labels
+
 ## Key Conventions
 
 - All string literals in `.d` and `.tp2` files are externalized to `.tra` files and referenced as `@NNN` (e.g., `@1`, `@100`).
