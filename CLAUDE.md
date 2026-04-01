@@ -76,6 +76,7 @@ The GitHub Actions workflow (`.github/workflows/InfinityAutoPackager.yaml`) pack
   - Example: `@0 = ~Alors, tu es prêt à partir, <CHARNAME> ?~ ~Alors, tu es prête à partir, <CHARNAME> ?~`
   - Never use slash/parenthesis notation (`prêt(e)`, `le/la`, `charmeur(se)`) — always use dual-string instead
 - Never use `-` or `--` mid-sentence in French — use commas, parentheses, ellipsis, or semicolons instead
+- Never abbreviate gold pieces as `po` — always write `pièces d'or` in full (the English `gp` abbreviation was a mistake and should not be carried over)
 
 ## Key Conventions
 
