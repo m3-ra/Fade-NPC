@@ -68,11 +68,14 @@ The GitHub Actions workflow (`.github/workflows/InfinityAutoPackager.yaml`) pack
 - Proper nouns untranslated: character names (Fade, Aran, Imoen, Irenicus, Bodhi, Rasaad, Dorn, etc.), place names (Athkatla, Faerûn, Calimport, etc.), game mechanics labels
 - Kit/class names use official French BG translations: Shadowdancer → **Maître des ombres**
 - Faction names are translated: Shadow Thieves → **Voleurs de l'ombre**, Shadow Thief (singular member) → **Voleur/Voleuse de l'ombre**
+- Title: Shadowmaster (Aran Linvail's title as boss of the Shadow Thieves) → **Maître des ombres**
 
 **Translation workflow:**
 - Always translate/review dialogue in bulk using the `.d` files in `Fade/Dialogues/` to understand the full conversation tree — never work on single lines or unrelated lines in isolation
 - When Fade refers to the player character and gender agreement is needed, use WeiDU's dual-string syntax: `@ID = ~masculine version~ ~feminine version~`
   - Example: `@0 = ~Alors, tu es prêt à partir, <CHARNAME> ?~ ~Alors, tu es prête à partir, <CHARNAME> ?~`
+  - Never use slash/parenthesis notation (`prêt(e)`, `le/la`, `charmeur(se)`) — always use dual-string instead
+- Never use `-` or `--` mid-sentence in French — use commas, parentheses, ellipsis, or semicolons instead
 
 ## Key Conventions
 

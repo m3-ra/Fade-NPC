@@ -6764,7 +6764,7 @@ Elle fit un clin d'œil, quitta la chambre et je ne la revis jamais"~
 @6718 = ~Je suppose que ça ne s'est pas bien terminé.~
 @6719 = ~Non, pas du tout. Il s'était déguisé en elfe de lune, tu vois, donc quand Telana et Hayes l'ont ramené au début, on pensait tous que c'était juste ce vieux grincheux cinglé qui avait un faible pour les prunes sucrées, parfaitement inoffensif et parfaitement sénile. On s'est lourdement, lourdement trompés.~
 @6720 = ~Que s'est-il passé ?~
-@6721 = ~Oh, tu sais, le truc habituel : il a éventuellement révélé sa vraie nature et détruit la moitié du sanctuaire dans un accès de rage explosive. Des boules de feu et des sortilèges imprudents abondaient jusqu'à ce qu'on réussisse à le maîtriser — du moins temporairement — mais il a éventuellement se téléporté, pour n'être plus jamais revu.~
+@6721 = ~Oh, tu sais, le truc habituel : il a finalement révélé sa vraie nature et détruit la moitié du sanctuaire dans un accès de rage explosive. Des boules de feu et des sortilèges imprudents abondaient jusqu'à ce qu'on réussisse à le maîtriser (du moins temporairement), mais il s'est finalement téléporté, pour n'être plus jamais revu.~
 @6722 = ~Wow. Je me demande ce qui l'a fait craquer comme ça.~
 @6723 = ~On est tombés à court de prunes sucrées.~
 @6724 = ~Quoi ?! Tout ça pour des prunes sucrées ?~
@@ -6841,7 +6841,7 @@ Elle fit un clin d'œil, quitta la chambre et je ne la revis jamais"~
 @6795 = ~Oh ? Et toi, ma belle Fade, tu as aussi des *compétences* qui ont attiré mon attention...~
 @6796 = ~Vraiment ? Je... oh. Non... pas... non. Je voulais dire... euh, des compétences professionnelles. (toux)~
 @6797 = ~Dommage. Mais dis-moi tout.~
-@6798 = ~Je me demandais juste si tu avais jamais envisagé de rejoindre les Voleurs des Ombres. Ils sont toujours à la recherche de professionnelles talentueuses.~
+@6798 = ~Je me demandais juste si tu avais jamais envisagé de rejoindre les Voleurs de l'ombre. Ils sont toujours à la recherche de professionnels talentueux.~
 @6799 = ~Qu'est-ce qui te fait penser qu'ils accepteraient jamais quelqu'un comme moi dans leurs rangs ? Je ne crois pas. Aran ne voudrait jamais en entendre parler.~
 @6800 = ~Je lui parlerai, je te répondrai et tout ça. Donne-lui une chance, Hexxat. Je lui ferai voir à quel point tu es formidable...~
 @6801 = ~Je suis flattée de ta confiance en moi, Fade, vraiment. Mais je pense qu'il vaudrait mieux me laisser comme... une opérative non affiliée.~
@@ -6964,7 +6964,7 @@ Elle fit un clin d'œil, quitta la chambre et je ne la revis jamais"~
 @6918 = ~Tu ne sais *rien* de mon héritage !~
 @6919 = ~En fait, si. Ou tu aurais oublié qui est mon patron ?~
 @6920 = ~(Fade renifle de mépris) Ah oui. Ton *patron*. Ton *maître*. Celui qui tient ta laisse.~
-@6921 = ~C'est toi qui parles, toi qui rampes aux pieds du Shadowmaster et lui lèches les bottes. Je sers mon patron parce que ça m'avantage, pour l'instant. C'est *toi* qui me dégoûtes, *moi* ! Tu as tourné le dos à tout ce qui fait ce que tu es, et tu n'en es que plus faible. Les autres de ton espèce embrassent le pouvoir qui coule dans leur sang, mais toi -- tu n'es rien sans ton cher Aran et ses pathétiques Shadow Thieves.~
+@6921 = ~C'est toi qui parles, toi qui rampes aux pieds du Maître des ombres et lui lèches les bottes. Je sers mon patron parce que ça m'avantage, pour l'instant. C'est *toi* qui me dégoûtes, *moi* ! Tu as tourné le dos à tout ce qui fait ce que tu es, et tu n'en es que plus faible. Les autres de ton espèce embrassent le pouvoir qui coule dans leur sang, mais toi, tu n'es rien sans ton cher Aran et ses pathétiques Voleurs de l'ombre.~
 @6922 = ~Tu réalises à quel point tu es INSUPPORTABLE ? Et arrête de m'appeler pixie, je *déteste* ça.~
 @6923 = ~Pixie.~
 @6924 = ~Grrr ! T'es intolérable ! Je comprends vraiment pas pourquoi <CHARNAME> te garde dans le groupe !~
@@ -6982,12 +6982,12 @@ Elle fit un clin d'œil, quitta la chambre et je ne la revis jamais"~
 @6936 = ~Et *toi*, tu devrais surveiller ta petite langue de vipère, salope, ou je pourrais bien te l'arracher de la tête.~
 @6937 = ~Je n'ai pas peur de toi, *chevalier noir*. Tu ne me ferais jamais de mal.~
 @6938 = ~J'en suis pas si sûr.~
-@6939 = ~Si t'es assez stupide pour t'en prendre à un membre des Shadow Thieves, alors vas-y, je t'en prie. Tu peux toujours essayer.~
-@6940 = ~Tu crois vraiment que d'être la petite pouliche du Shadowmaster va te protéger de *moi* ?~
+@6939 = ~Si t'es assez stupide pour t'en prendre à un membre des Voleurs de l'ombre, alors vas-y, je t'en prie. Tu peux toujours essayer.~
+@6940 = ~Tu crois vraiment que d'être la petite pouliche du Maître des ombres va te protéger de *moi* ?~
 @6941 = ~J'en doute, mais les conséquences seraient... gênantes. Tu ne le ferais pas.~
 @6942 = ~Tu te trompes.~
 @6943 = ~On verra bien.~
-@6944 = ~Fais attention à toi, Dorn. Les Shadow Thieves ont des yeux partout, et ils observent tout. Tu touches un seul de mes cheveux, et ils te détruiront.~
+@6944 = ~Fais attention à toi, Dorn. Les Voleurs de l'ombre ont des yeux partout, et ils observent tout. Tu touches un seul de mes cheveux, et ils te détruiront.~
 @6945 = ~Hahaha ! Peu probable. T'es idiote de croire qu'une lame dans l'ombre aura raison de Dorn Il-Khan.~
 @6946 = ~Pas une lame. Des secrets. On sait tout sur toi, et c'est comme ça qu'on te détruira.~
 @6947 = ~Et je t'entraînerai dans ma chute, Pixie. Retiens bien mes paroles.~
@@ -6998,7 +6998,7 @@ Elle fit un clin d'œil, quitta la chambre et je ne la revis jamais"~
 @6952 = ~J'ai pas le temps pour ça maintenant, Fade.~
 @6953 = ~Je t'ai vu souvent avec Dorn ces derniers temps. Qu'est-ce qui se passe entre vous ?~
 @6954 = ~Autant aller droit au but : toi. Dorn. C'est quoi l'histoire ?~
-@6955 = ~Eh bien, tu pourrais *faire* le temps ? J'ai besoin de savoir ce qui se passe entre toi et Dorn.~
+@6955 = ~Eh bien, tu pourrais *trouver* du temps ? J'ai besoin de savoir ce qui se passe entre toi et Dorn.~
 @6956 = ~Alors ?~
 @6957 = ~On est bons amis. Tu l'aimes peut-être pas, mais moi oui. Fais avec.~
 @6958 = ~Ça te regarde pas. Ne me pose plus la question.~
