@@ -66,6 +66,7 @@ The GitHub Actions workflow (`.github/workflows/InfinityAutoPackager.yaml`) pack
 - Informal register, **tu** form (never vous)
 - All WeiDU tokens preserved verbatim: `<CHARNAME>`, `<PRO_HESHE>`, `<PRO_HISHER>`, `[soundfile]` tags, `~` delimiters, `@N` IDs
 - Proper nouns untranslated: character names (Fade, Aran, Imoen, Irenicus, Bodhi, Rasaad, Dorn, etc.), place names (Athkatla, Faerûn, Calimport, etc.), game mechanics labels
+- Kit/class names use official French BG translations: Shadowdancer → **Maître des ombres**
 
 ## Key Conventions
 
