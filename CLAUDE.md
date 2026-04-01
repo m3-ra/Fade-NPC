@@ -67,6 +67,7 @@ The GitHub Actions workflow (`.github/workflows/InfinityAutoPackager.yaml`) pack
 - All WeiDU tokens preserved verbatim: `<CHARNAME>`, `<PRO_HESHE>`, `<PRO_HISHER>`, `[soundfile]` tags, `~` delimiters, `@N` IDs
 - Proper nouns untranslated: character names (Fade, Aran, Imoen, Irenicus, Bodhi, Rasaad, Dorn, etc.), place names (Athkatla, Faerûn, Calimport, etc.), game mechanics labels
 - Kit/class names use official French BG translations: Shadowdancer → **Maître des ombres**
+- Faction names are translated: Shadow Thieves → **Voleurs de l'ombre**, Shadow Thief (singular member) → **Voleur/Voleuse de l'ombre**
 
 **Translation workflow:**
 - Always translate/review dialogue in bulk using the `.d` files in `Fade/Dialogues/` to understand the full conversation tree — never work on single lines or unrelated lines in isolation
