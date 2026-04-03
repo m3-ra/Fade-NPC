@@ -78,6 +78,23 @@ The GitHub Actions workflow (`.github/workflows/InfinityAutoPackager.yaml`) pack
 - Never use `-` or `--` mid-sentence in French — use commas, parentheses, ellipsis, or semicolons instead
 - Never abbreviate gold pieces as `po` — always write `pièces d'or` in full (the English `gp` abbreviation was a mistake and should not be carried over)
 
+**Translation review procedure** — follow this every time, without exception:
+
+1. **Read the `.d` file first** — understand every dialogue branch before touching any string. Work one complete conversation chunk at a time, never isolated lines.
+
+2. **Read EN and FR in parallel per chunk** — for every string, ask: does the French sound like something a French person would actually say? If not, rewrite it. "Technically correct" is not enough.
+
+3. **Idiomatic + tone, both simultaneously:**
+   - Idiomatic: no calques, no word-for-word structures, no anglicisms
+   - Tone: match the speaker's register (Fade is flirty/casual; player lines must match the option's attitude — smirk, sincere, sarcastic, stumbling)
+
+4. **Gender check on every line** — for each string, ask: who is speaking? who are they speaking about?
+   - Fade speaking about herself → feminine agreements
+   - Fade speaking about a male player (romance files, `E3FADEROMANCEACTIVE=1` or `=2`) → masculine agreements, no dual-string needed
+   - Non-romance files with `<CHARNAME>` → dual-string `~masc~ ~fem~` wherever gender agreement is required
+
+5. **Flag all issues before editing** — list every problem found in the chunk before making any edits, so nothing gets silently skipped.
+
 ## Key Conventions
 
 - All string literals in `.d` and `.tp2` files are externalized to `.tra` files and referenced as `@NNN` (e.g., `@1`, `@100`).
