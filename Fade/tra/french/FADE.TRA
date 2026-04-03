@@ -440,8 +440,8 @@ Même si je craignais depuis un moment que la vengeance ultime de Bodhi soit de 
 @437  = ~(À ta surprise, elle te serre brièvement dans ses bras) Bien sûr que tu peux compter sur moi. Je serai là pour toi, pour n'importe quelle raison, pour n'importe quelle raison que ce soit. Si je peux t'aider d'une quelconque façon, je le ferai.~
 @438  = ~Imoen était dedans ? Quel rapport Imoen a-t-elle avec tout ça ?~
 @439  = ~Fade, peu importe. On n'a pas le temps d'en discuter maintenant. Il faut qu'on parte d'ici et qu'on attrape Irenicus !~
-@440  = ~Tu sais que je l'ai toujours appelée ma sœur ? Eh bien, il s'avère qu'elle *l'est* -- elle aussi est une Bhaalspawn. Demande-moi pas pourquoi elle était dans ma... vision. Elle l'était, c'est tout.~
-@441  = ~Imoen est une Bhaalspawn ? Eh bien, je suppose que ça explique beaucoup de choses.~
+@440  = ~Tu sais que je l'ai toujours appelée ma sœur ? Eh bien, il s'avère qu'elle *l'est* -- elle aussi est une enfant de Bhaal. Demande-moi pas pourquoi elle était dans ma... vision. Elle l'était, c'est tout.~
+@441  = ~Imoen est une enfant de Bhaal ? Eh bien, je suppose que ça explique beaucoup de choses.~
 @442  = ~Qu-qu'est-ce qu'il s'est passé là, <CHARNAME> ? Ça va ? J'étais tellement inquiète... ~
 @443  = ~Ça va, Fade, mais je... je ne sais pas ce qui s'est passé. Je crois qu'Irenicus m'a pris quelque chose.~
 @444  = ~Ça n'a vraiment pas d'importance. Je veux pas t'inquiéter inutilement.~
@@ -454,7 +454,7 @@ Même si je craignais depuis un moment que la vengeance ultime de Bodhi soit de 
 @451  = ~Bien sûr, <CHARNAME>. Je comprends. Juste... si tu as besoin de quoi que ce soit, ou tu... ressens quelque chose, dis-le-moi. Si je peux t'aider d'une quelconque façon, je le ferai.~
 @452  = ~On va... on va le récupérer d'Irenicus -- tout de suite ! Comment ose-t-il faire ça ! Si tu as besoin de quoi que ce soit, ou tu... ressens quelque chose, dis-le-moi. Si je peux t'aider d'une quelconque façon, je le ferai.~
 @453  = ~Bien sûr que tu peux compter sur moi. Je serai là pour toi, pour n'importe quelle raison, quelle qu'elle soit. Si je peux t'aider d'une quelconque façon, je le ferai.~
-@454  = ~Imoen est une Bhaalspawn ? Eh bien, je suppose que ça explique beaucoup de choses. Si tu as besoin de quoi que ce soit, ou tu... ressens quelque chose, dis-le-moi. Si je peux t'aider d'une quelconque façon, je le ferai.~
+@454  = ~Imoen est une enfant de Bhaal ? Eh bien, je suppose que ça explique beaucoup de choses. Si tu as besoin de quoi que ce soit, ou tu... ressens quelque chose, dis-le-moi. Si je peux t'aider d'une quelconque façon, je le ferai.~
 @455  = ~<CHARNAME>... tu sais ce qui s'est passé là ? Tu t'es transformé en l'avatar de Bhaal, le Massacreur !~
 @456  = ~Je... j'ai fait ça ? J'ai senti quelque chose se passer... je voulais juste tuer tout le monde. J'étais possédé d'une force incroyable, et... et... qu'est-ce qui m'arrive ?!~ ~Je... j'ai fait ça ? J'ai senti quelque chose se passer... je voulais juste tuer tout le monde. J'étais possédée d'une force incroyable, et... et... qu'est-ce qui m'arrive ?!~
 @457  = ~Je sais. Fade... s'il te plaît... j'ai besoin de toi près de moi maintenant.~
@@ -708,7 +708,7 @@ Même si je craignais depuis un moment que la vengeance ultime de Bodhi soit de 
 @705  = ~Tu crois m'insulter, puis m'ordonner de rester ? Tu te trompes lourdement !~
 @706  = ~Pas beaucoup... mais assez pour cette vie. (frisson) Les Tan'ari viennent normalement nous voir pour... peu importe la raison. Je n'aime pas vraiment en parler. Disons juste que son nom lui rend à peine justice.~
 @707  = ~Mais ça fait partie de ton héritage, pourquoi le craindre ainsi ? Qu'est-ce qui te rend si différente des autres Fey'ri ?~
-@708  = ~Tu n'as pas encore eu de malheur... pour l'instant. Il suffit qu'un des Seigneurs Démons réalise qu'un Bhaalspawn s'intéresse à eux. Je crois que l'expression couramment utilisée est "une chance sur un million", non ? Parce que c'est tout ce que t'aurais.~
+@708  = ~Tu n'as pas encore eu de malheur... pour l'instant. Il suffit qu'un des Seigneurs Démons réalise qu'un enfant de Bhaal s'intéresse à eux. Je crois que l'expression couramment utilisée est "une chance sur un million", non ? Parce que c'est tout ce que t'aurais.~
 @709  = ~Pas que je le sache. Pour la chance sur un million, je veux dire. Je n'y suis pas allé. Mais si tu insistes à continuer cet... intérêt, eh bien... fais juste attention.~
 @710  = ~Je n'ai pas besoin que tu me dises comment conduire mes intérêts, alors mêle-toi de tes affaires.~
 @711  = ~Je n'y avais jamais pensé comme ça avant. Merci de ton inquiétude, et je ferai attention.~
@@ -719,7 +719,7 @@ Même si je craignais depuis un moment que la vengeance ultime de Bodhi soit de 
 @716  = ~Je suppose qu'il y a de la sagesse dans ces mots. Combien de temps avant que les combattants de la liberté deviennent les oppresseurs ? (soupir) C'est pas simple, hein ? Qu'est-ce que tu suggères ?~
 @717  = ~Tu es bien trop gentil avec moi, <CHARNAME>, mais je suis loin de l'image que tu as peinte de moi. Je... sais juste que je dois aider. Si c'est de la compassion, eh bien... Merci. De m'avoir donné une chance.~
 @718  = ~Je... je peux pas dire. Pas encore. Je sais que tu as des réserves à m'avoir ici, mais je dois aussi savoir que je peux te faire confiance d'abord. Je suis... désolée.~
-@719  = ~Et qu'est-ce que tu crois que les gens diront quand ils entendront qu'un Enfant de Bhaal, le Seigneur du Meurtre, s'est lancé dans un carnage, même si c'est contre des soi-disant "malfaisants" ? Sois logique, <CHARNAME>.~
+@719  = ~Et qu'est-ce que tu crois que les gens diront quand ils entendront qu'un enfant de Bhaal, le Seigneur du Meurtre, s'est lancé dans un carnage, même si c'est contre des soi-disant "malfaisants" ? Sois logique, <CHARNAME>.~
 @720  = ~Comment oses-tu me parler ainsi, Fade ? Je ne sais même pas pourquoi je daigne parler à quelqu'un comme toi.~
 @721  = ~Hmm. Je suppose que je peux voir ton point de vue. Ce ne serait pas si simple que ça. Qu'est-ce que tu suggères alors ?~
 @722  = ~Oh, donc la conversation de quelqu'un "comme moi" n'est pas assez bien pour notre résidente <PRO_LADYLORD> du Meurtre ? Très bien, je veillerai à ce que tes divines oreilles n'en soient plus jamais importunées !~
@@ -937,7 +937,7 @@ Fade a accepté d'aider Aran à livrer des fonds à sa mère, aussi étonnante q
 @932  = ~C'est <CHARNAME> ! Je suis venu chercher Fade !~ ~C'est <CHARNAME> ! Je suis venue chercher Fade !~
 @933  = ~Personne d'important. Sympa comme endroit qu'ils ont ici, même si ton hospitalité laisse à désirer.~
 @934  = ~Je crois que tu sais exactement qui je suis et pourquoi je suis là. Alors écarte-toi ou sois écarté.~
-@935  = ~Fade ? Alors tu dois être le gardien Bhaalspawn dont elle parle tout le temps. Eh bien, je suis désolé, <CHARNAME>, mais je ne fais que récupérer la propriété de mon maître. Tout est là, sur ce bout de parchemin. Elle lui appartient, et il n'y a rien que tu puisses faire.~
+@935  = ~Fade ? Alors tu dois être l'enfant de Bhaal dont elle parle tout le temps. Eh bien, je suis désolé, <CHARNAME>, mais je ne fais que récupérer la propriété de mon maître. Tout est là, sur ce bout de parchemin. Elle lui appartient, et il n'y a rien que tu puisses faire.~
 @936  = ~Faux. Je peux te tuer, pour commencer.~
 @937  = ~En effet ? Alors je vais t'acheter son contrat.~
 @938  = ~Espèce de sans-cœur ! Fade n'appartient à personne !~
@@ -950,7 +950,7 @@ Fade a accepté d'aider Aran à livrer des fonds à sa mère, aussi étonnante q
 @945  = ~Fade enlevée.
 
 J'ai rencontré Mallon dans un complexe gardé dans le Quartier du Temple, mais j'ai choisi de ne pas insister sur la question de Fade. Le lieu où se trouve Fade est toujours inconnu, et avec Mallon parti, il y a peu de chances que je la revoie jamais.~
-@946  = ~Ahhh... donc tu dois être le gardien Bhaalspawn dont la demi-fiélonne parle tout le temps. Eh bien, je suis désolé, <CHARNAME>, mais je ne fais que récupérer la propriété de mon maître. Tout est là, sur ce bout de parchemin. Elle lui appartient, et il n'y a rien que tu puisses faire.~
+@946  = ~Ahhh... donc tu dois être l'enfant de Bhaal dont la demi-fiélonne parle tout le temps. Eh bien, je suis désolé, <CHARNAME>, mais je ne fais que récupérer la propriété de mon maître. Tout est là, sur ce bout de parchemin. Elle lui appartient, et il n'y a rien que tu puisses faire.~
 @947  = ~Tu... tu l'achèterais ? De combien parle-t-on ?~
 @948  = ~500 pièces d'or. N'importe quoi pour éviter une bagarre.~
 @949  = ~1000 pièces d'or. Je ne veux pas me battre.~
@@ -3682,11 +3682,11 @@ Elle fit un clin d'œil, quitta la chambre et je ne la revis jamais"~
 @3636 = ~Aran ? Il... ne sait pas. Du moins je crois pas qu'il sache. Il ne m'a jamais appelé dessus. C'est quelque chose que je fais quand j'ai du temps à moi. Je peux pas juste rester là et regarder des gens être utilisés comme ça -- il fallait que je fasse quelque chose. D'où la raison pour laquelle je devais t'aider.~
 @3637 = ~C'est presque noble de ta part, Fade.~
 @3638 = ~Je vois. Alors, qu'est-ce que tu pensais de moi quand on s'est rencontrés pour la première fois ?~
-@3639 = ~Tu sais ce qui m'a frappé en premier chez toi ? Comme tu es... normal. Je savais depuis le début que t'étais un Enfant de Bhaal, et donc je crois que je m'attendais à ce que tu sois... je sais pas, un peu plus grand que nature, je suppose. Mais tu ne l'es pas.~
+@3639 = ~Tu sais ce qui m'a frappé en premier chez toi ? Comme tu es... normal. Je savais depuis le début que t'étais un enfant de Bhaal, et donc je crois que je m'attendais à ce que tu sois... je sais pas, un peu plus grand que nature, je suppose. Mais tu ne l'es pas.~
 @3640 = ~Et c'est une mauvaise chose ?~
 @3641 = ~Je vois. T'étais déçue ?~
-@3642 = ~J'ai pas été élevé pour être un Enfant de Bhaal. J'ai été élevé pour être une personne normale. Beaucoup de gens semblent s'attendre à ce que je sois une sorte de force surnaturelle, mais je ne le suis pas.~
-@3643 = ~La première chose qui m'a frappée chez toi c'était comme tu étais... normal. Je savais depuis le début que t'étais un Enfant de Bhaal, et donc je crois que je m'attendais à ce que tu sois... je sais pas, un peu plus grand que nature, je suppose. Mais tu ne l'es pas.~
+@3642 = ~J'ai pas été élevé pour être un enfant de Bhaal. J'ai été élevé pour être une personne normale. Beaucoup de gens semblent s'attendre à ce que je sois une sorte de force surnaturelle, mais je ne le suis pas.~
+@3643 = ~La première chose qui m'a frappée chez toi c'était comme tu étais... normal. Je savais depuis le début que t'étais un enfant de Bhaal, et donc je crois que je m'attendais à ce que tu sois... je sais pas, un peu plus grand que nature, je suppose. Mais tu ne l'es pas.~
 @3644 = ~Personne qui ait jamais compté, non. Je n'ai aucune illusion sur mes... différences.~
 @3645 = ~Tes "différences", comme tu les appelles, font partie de ton charme, Fade. Alors, et moi ? Qu'est-ce que tu pensais de moi quand on s'est rencontrés pour la première fois ?~
 @3646 = ~D'accord, tes "différences" me tracassaient un peu au début, mais plus maintenant. Je t'aime -- tout de toi. Alors, et moi ? Qu'est-ce que tu pensais de moi quand on s'est rencontrés pour la première fois ?~
@@ -3757,7 +3757,7 @@ Elle fit un clin d'œil, quitta la chambre et je ne la revis jamais"~
 @3711 = ~Oui, parfois ce sentiment est approprié. (sourires) Bien que ce que *toi* tu as sans aucun doute en tête devra attendre plus tard ! Je crois qu'il faut qu'on y aille maintenant, ou on sera pas populaires !~
 @3712 = ~Oh vraiment ? (Elle se retourne vers toi, un sourire malicieux sur le visage) Eh bien, on va juste voir comment tu obéis aux ordres plus tard...~
 @3713 = ~Je... je ne pourrais pas le supporter si tu étais blessé à cause de moi. Je pourrais juste pas...~
-@3714 = ~Et moi je ne pourrais pas supporter qu'on t'emmène loin de moi. Je suis un Enfant de Bhaal et si besoin est je le rappellerai au Pacha, même si je dois faire s'effondrer son palais sur lui pour ça.~
+@3714 = ~Et moi je ne pourrais pas supporter qu'on t'emmène loin de moi. Je suis un enfant de Bhaal et si besoin est je le rappellerai au Pacha, même si je dois faire s'effondrer son palais sur lui pour ça.~
 @3715 = ~Pas plus que je ne pourrais supporter qu'on t'emmène loin de moi. Ça suffit, on a tous assez de mauvais souvenirs -- faisons-en de bons.~
 @3716 = ~(soupir) T'entendre dire ça... que tu viendrais me chercher, quoi qu'il arrive... ça me fait me sentir vraiment en sécurité pour la première fois dont je me souvienne. Merci, <CHARNAME>.~
 @3717 = ~(sourires) Exactement mes pensées ! Peut-être plus tard, hein ? Je crois qu'il faut qu'on y aille maintenant, ou on sera pas populaires !~
@@ -4824,9 +4824,9 @@ Elle fit un clin d'œil, quitta la chambre et je ne la revis jamais"~
 @4778 = ~Fade ! Arrête de chercher la bagarre et calme-toi !~
 @4779 = ~Oh, par les dieux... Fade, tiens-toi !~
 @4780 = ~T'as juste traité ma copine de truc bizarre ?~
-@4781 = ~Ouais ?! T'as un problème avec ça, Enfant-de-Bhaal ? Eh bien tu peux aller te faire foutre aussi !~
-@4782 = ~Tu oses me dire de me tenir ? T'as un problème avec ça, Enfant-de-Bhaal ? Eh bien tu peux aller te faire foutre aussi !~
-@4783 = ~Ooooh, t'es dans le pétrin maintenant. Tu viens de mettre en rogne un Enfant-de-Bhaal (MON Enfant-de-Bhaal), probablement le plus puissant de tous les Royaumes...~
+@4781 = ~Ouais ?! T'as un problème avec ça, enfant de Bhaal ? Eh bien tu peux aller te faire foutre aussi !~
+@4782 = ~Tu oses me dire de me tenir ? T'as un problème avec ça, enfant de Bhaal ? Eh bien tu peux aller te faire foutre aussi !~
+@4783 = ~Ooooh, t'es dans le pétrin maintenant. Tu viens de mettre en rogne un enfant de Bhaal (MON enfant de Bhaal), probablement le plus puissant de tous les Royaumes...~
 @4784 = ~Il y a une guerre là-dehors et tu t'inquiètes d'un peu de langage grossier ?! Un peu de réalisme, <CHARNAME> !~
 @4785 = ~Des gens meurent là-dehors... par centaines... sans aucune faute de leur part... tu... tu peux les voir, allongés dans la rue, leur sang se répandant dans la pierre froide...~
 @4786 = ~(Elle frissonne presque convulsivement.) Excuse-moi, il faut que je sorte d'ici...~
@@ -4843,10 +4843,10 @@ Elle fit un clin d'œil, quitta la chambre et je ne la revis jamais"~
 @4797 = ~C'est ça ! Sacrés lâches ! Filez avec la queue entre les jambes ! C'est quoi ça, la légendaire bravoure des nains, hein ?~
 @4798 = ~Fade, tu sais que je vais pas te laisser te balader à chercher la bagarre ! Mais qu'est-ce qui te prend ? Laisse tomber et calme-toi !~
 @4799 = ~Je jure devant quel que soit le dieu qui m'écoute que si tu recommences à chercher la bagarre comme ça contre de simples passants, je serai forcé de te faire du mal ! Souviens-toi de ta place !~
-@4800 = ~E-Enfant-de-Bhaal ?~
-@4801 = ~Oui, Enfant-de-Bhaal. Je te suggère de partir, de rejoindre tes amis et d'arrêter de menacer ma fille.~
+@4800 = ~E-enfant de Bhaal ?~
+@4801 = ~Oui, enfant de Bhaal. Je te suggère de partir, de rejoindre tes amis et d'arrêter de menacer ma fille.~
 @4802 = ~Oh, Fade, la ferme ! Je sais que t'as envie de te battre avec quelqu'un, mais je vais pas le permettre, okay ? Alors laisse tomber et calme-toi !~
-@4803 = ~Okay, okay. Faites rien de précipité... nous et nos potes on s'en va maintenant, m'sieur l'Enfant-de-Bhaal...~
+@4803 = ~Okay, okay. Faites rien de précipité... nous et nos potes on s'en va maintenant, m'sieur l'enfant de Bhaal...~
 @4804 = ~Amenez-moi Fade, la voleuse fey'ri.~
 @4805 = ~Amenez-moi Fade, ma bien-aimée Voleuse de l'ombre démoniaque.~
 @4806 = ~(Fade regarde autour d'elle avec amusement, sa queue se trémousse) ~
@@ -4878,8 +4878,8 @@ Elle fit un clin d'œil, quitta la chambre et je ne la revis jamais"~
 @4832 = ~Eh bien... reste.~
 @4833 = ~Attends-moi ici, mon amour. Je promets de pas être parti trop longtemps.~ ~Attends-moi ici, mon amour. Je promets de pas être partie trop longtemps.~
 @4834 = ~Humph ! D'accord. Je t'attendrai, mais attends-toi pas à ce que je comprenne ce que tu viens de faire, hein ?~
-@4835 = ~(soupir) Encore un chasseur d'Enfant-de-Bhaal, je suppose ? T'as *la moindre idée* à quel point ça lasse, à la longue ?~
-@4836 = ~Tu voyages avec des compagnons intéressants, Enfant-de-Bhaal. Je devrais faire ravaler ses mots à cette rousse à grande gueule, mais au final, elle n'a pas d'importance. C'est *ta* tête que je veux.~
+@4835 = ~(soupir) Encore un chasseur d'enfant de Bhaal, je suppose ? T'as *la moindre idée* à quel point ça lasse, à la longue ?~
+@4836 = ~Tu voyages avec des compagnons intéressants, enfant de Bhaal. Je devrais faire ravaler ses mots à cette rousse à grande gueule, mais au final, elle n'a pas d'importance. C'est *ta* tête que je veux.~
 @4837 = ~Eh bien, ça commence à ressembler à une belle réunion de famille, hein, <CHARNAME> ?~
 @4838 = ~Et si *toi* tu reculais maintenant, tu repartirais indemne ?~
 @4839 = ~Hmm, qui en effet ? Je fais pas confiance à ce type, <CHARNAME>. Il a les yeux fuyants.~
@@ -4898,7 +4898,7 @@ Elle fit un clin d'œil, quitta la chambre et je ne la revis jamais"~
 @4852 = ~Tu sais quoi ? Je m'en fous de ce que dit <CHARNAME>. Je sais ce qu'on ressent à être enchaînée et maltraitée comme un chien errant, et je vais *pas* laisser ça arriver à toi, ni à personne d'autre, tant que *moi* je peux l'empêcher. Et <CHARNAME>, si t'as un problème avec ça, on devra s'en occuper plus tard, c'est clair ?~
 @4853 = ~Bouge pas. Je dois m'occuper des menottes.~
 @4854 = ~Ah... enfin libre. Je suppose que je suis dans ta dette. Eh bien, je n'aurai de dette envers aucune femme. Même si ça me contrarie, je te dirai ce que je sais sur Yaga-Shura.~
-@4855 = ~Je m'appelle Ehlastra, une guerrière des terres du Nord. J'avais entendu des légendes sur Yaga-Shura, un Enfant de Bhaal né d'une géante. Je suis venue en ce lieu pour voir si les légendes étaient vraies.~
+@4855 = ~Je m'appelle Ehlastra, une guerrière des terres du Nord. J'avais entendu des légendes sur Yaga-Shura, un enfant de Bhaal né d'une géante. Je suis venue en ce lieu pour voir si les légendes étaient vraies.~
 @4856 = ~Et ça, au moins, c'est vrai, comme on peut le constater.~
 @4857 = ~Oui. Cependant, les géants du feu de ce Temple sont des idiots à courte vue. Ils ont reconnu mes compétences guerrières, mais ils ne m'ont vue que comme une partenaire potentielle pour Yaga-Shura, une chance pour lui de répandre davantage la semence de Bhaal.~
 @4858 = ~J'en ai rencontré des types comme eux. Ils valent pas mieux que des égouts.~
@@ -4965,7 +4965,7 @@ Elle fit un clin d'œil, quitta la chambre et je ne la revis jamais"~
 @4919 = ~Heh, ils étaient pas obligés de se battre contre toi, <CHARNAME>... ils pouvaient dire non. Obéir aveuglément aux ordres est pas une excuse. Vu ta réputation comme quasi-sauveur de la Côte des Épées, j'aurais pensé qu'ils auraient peut-être pris un moment pour réfléchir avant de t'attaquer.~
 @4920 = ~Quelle probabilité qu'une personne qui a évité une guerre en déclenche une autre sans aucune raison ! Ils savaient que Yaga Shura attaquait Saradush avant toi. Ils veulent juste un bouc émissaire, c'est tout.~
 @4921 = ~Comment tu peux dire ça ? Je comprends bien que les gens qui orchestrent une telle attaque contre moi cherchent simplement une solution facile, mais les pauvres gens qui travaillent pour eux... ils doivent faire leur devoir. On leur a dit que c'était la bonne chose à faire, et que j'étais l'ennemi maléfique.~
-@4922 = ~Imagine si tu avais perdu des proches dans la destruction de Saradush et qu'on t'ait dit que l'Enfant-de-Bhaal appelé <CHARNAME> était responsable de leurs morts. Toi aussi tu voudrais te battre, et j'appelle pas vraiment ça obéir aveuglément aux ordres. Il y a des gens ici qui n'ont pas notre « connaissance de l'intérieur ». Fade.~ ~Imagine si tu avais perdu des proches dans la destruction de Saradush et qu'on t'ait dit que l'Enfant-de-Bhaal appelée <CHARNAME> était responsable de leurs morts. Toi aussi tu voudrais te battre, et j'appelle pas vraiment ça obéir aveuglément aux ordres. Il y a des gens ici qui n'ont pas notre « connaissance de l'intérieur ». Fade.~
+@4922 = ~Imagine si tu avais perdu des proches dans la destruction de Saradush et qu'on t'ait dit que l'enfant de Bhaal appelé <CHARNAME> était responsable de leurs morts. Toi aussi tu voudrais te battre, et j'appelle pas vraiment ça obéir aveuglément aux ordres. Il y a des gens ici qui n'ont pas notre « connaissance de l'intérieur ». Fade.~ ~Imagine si tu avais perdu des proches dans la destruction de Saradush et qu'on t'ait dit que l'enfant de Bhaal appelée <CHARNAME> était responsable de leurs morts. Toi aussi tu voudrais te battre, et j'appelle pas vraiment ça obéir aveuglément aux ordres. Il y a des gens ici qui n'ont pas notre « connaissance de l'intérieur ». Fade.~
 @4923 = ~Bien sûr qu'ils veulent juste un bouc émissaire, mais ça m'aide pas à me sentir mieux de les avoir tués. Si seulement je pouvais leur parler...~
 @4924 = ~C'est une opinion un peu dure, <CHARNAME>, mais je comprends où tu veux en venir. Il est plus facile de blâmer un bouc émissaire pour de telles choses, et comme survivant et vainqueur apparent, tu es le choix le plus simple.~ ~C'est une opinion un peu dure, <CHARNAME>, mais je comprends où tu veux en venir. Il est plus facile de blâmer un bouc émissaire pour de telles choses, et comme survivante et victorieuse apparente, tu es le choix le plus simple.~
 @4925 = ~Le choix le plus simple, peut-être, mais ça équivaut pas à la défaite la plus facile. Avec un peu de chance, ça fera réfléchir à deux fois ceux qui orchestrent ces attaques. J'ai vaincu une armée, comme je vaincrai toute autre qui se mettra en travers de mon chemin !~
@@ -4974,7 +4974,7 @@ Elle fit un clin d'œil, quitta la chambre et je ne la revis jamais"~
 @4928 = ~Eh bien, on est d'accord, et c'est une bonne chose. Continuons juste.~
 @4929 = ~Les gens n'écoutent la raison que quand ça leur convient, <CHARNAME>, et j'ai le sentiment que la raison est la dernière chose que ces gens veulent. Ils veulent blâmer quelqu'un et le faire payer. J'ai le sentiment que les choses vont empirer avant de s'améliorer.~
 @4930 = ~Si elles s'améliorent un jour...~
-@4931 = ~Je me sens un peu désolé pour eux, en fait. Imagine si tu avais perdu des proches dans la destruction de Saradush et qu'on t'ait dit que l'Enfant-de-Bhaal appelé <CHARNAME> était responsable de leurs morts. Toi aussi tu voudrais te battre. Je peux pas blâmer la troupe ordinaire pour ce qui se passe.~ ~Je me sens un peu désolée pour eux, en fait. Imagine si tu avais perdu des proches dans la destruction de Saradush et qu'on t'ait dit que l'Enfant-de-Bhaal appelée <CHARNAME> était responsable de leurs morts. Toi aussi tu voudrais te battre. Je peux pas blâmer la troupe ordinaire pour ce qui se passe.~
+@4931 = ~Je me sens un peu désolé pour eux, en fait. Imagine si tu avais perdu des proches dans la destruction de Saradush et qu'on t'ait dit que l'enfant de Bhaal appelé <CHARNAME> était responsable de leurs morts. Toi aussi tu voudrais te battre. Je peux pas blâmer la troupe ordinaire pour ce qui se passe.~ ~Je me sens un peu désolée pour eux, en fait. Imagine si tu avais perdu des proches dans la destruction de Saradush et qu'on t'ait dit que l'enfant de Bhaal appelée <CHARNAME> était responsable de leurs morts. Toi aussi tu voudrais te battre. Je peux pas blâmer la troupe ordinaire pour ce qui se passe.~
 @4932 = ~Allez, courage, Fade ! Les choses vont s'améliorer, tu verras. Dans quelques mois, on repensera à tout ça et on se demandera pourquoi on était aussi désespérés.~
 @4933 = ~Je suis capable de me défendre, <CHARNAME>. Je suis pas en verre soufflé, tu sais !~
 @4934 = ~Je sais. Tu es une combattante redoutable, mais tu portes aussi notre enfant et ça me donne tous les droits du monde de m'inquiéter pour toi ! Je t'ai perdu de vue tellement de fois, je crois que j'ai passé plus de temps à m'inquiéter pour toi qu'à repousser des ennemis ! S'il t'arrivait quelque chose... je saurais vraiment pas quoi faire.~
@@ -5032,7 +5032,7 @@ Elle fit un clin d'œil, quitta la chambre et je ne la revis jamais"~
 @4986 = ~Ahhh, je savais que c'était trop beau pour être vrai ! Voilà la morale. Comment de tels sentiments pourraient-ils me détruire ? Je veux juste protéger ce qu'on a, c'est tout.~
 @4987 = ~Vraiment ? Parfois je sais pas. Je sais que tu es capable de ressentir et d'exprimer un grand amour pour moi... mais tu es aussi capable de ressentir et d'exprimer une grande haine, et je sais par expérience que la haine n'a que le pouvoir de détruire.~
 @4988 = ~C'est tout ce que je te demanderais jamais... d'essayer. Sache que quoi qu'il arrive, je serai là, juste à tes côtés. Si c'est en mon pouvoir, je ne te laisserai jamais affronter quoi que ce soit seul.~ ~C'est tout ce que je te demanderais jamais... d'essayer. Sache que quoi qu'il arrive, je serai là, juste à tes côtés. Si c'est en mon pouvoir, je ne te laisserai jamais affronter quoi que ce soit seule.~
-@4989 = ~Je me le demande aussi. « Maman est une demi-démon et Papa est un Enfant-de-Bhaal, et ensemble ils ont combattu de nombreux ennemis dont de puissants Vampires, des Mages fous, un Géant du Feu invincible et tout un peloton de Soldats Téthyriens... »~
+@4989 = ~Je me le demande aussi. « Maman est une demi-démon et Papa est un enfant de Bhaal, et ensemble ils ont combattu de nombreux ennemis dont de puissants Vampires, des Mages fous, un Géant du Feu invincible et tout un peloton de Soldats Téthyriens... »~
 @4990 = ~Purée, j'ai tout vécu avec toi et même *moi* je trouve que ça sonne un peu tiré par les cheveux ! Quand même, je suppose que c'est pas aussi tiré par les cheveux que nous qui devenons parents... que moi qui deviens une mère. Allez, continuons.~
 @4991 = ~Répondre à ça gâcherait tout le plaisir d'essayer de le découvrir par nous-mêmes, <CHARNAME>...~
 @4992 = ~(sourire) Qu'est-ce qu'il y a, <CHARNAME> ? T'as du mal à... « marcher » ?~
@@ -5304,7 +5304,7 @@ Elle fit un clin d'œil, quitta la chambre et je ne la revis jamais"~
 @5258 = ~Ça veut dire que *tu es* immortel(le) ? C'est peut-être la vraie raison pour laquelle Irenicus t'a ciblé(e)... peut-être que ça n'avait rien à voir avec Bhaal. Peut-être qu'on est tous *vraiment* morts, mais que toi tu ne peux vraiment pas mourir, et c'est pour ça qu'on a dû se battre, ou... ou quelque chose comme ça...~
 @5259 = ~Ou peut-être que quelqu'un réfléchit trop à toute la situation ? Honnêtement, je sais pas ce que mon héritage signifie en termes de ma propre mortalité et personnellement je pense que c'est futile pour le moment d'essayer de le comprendre. Tout ce que tu auras en fin de compte c'est un mal de tête !~
 @5260 = ~Je dois admettre, ça m'a beaucoup traversé l'esprit. Tout ça me fait juste réaliser que je ne me connais pas très bien. En effet, quelle partie de moi est liée à cette Prophétie ? Moi dans mon ensemble, ou juste la partie souillée ? J'ai parfois du mal à séparer <CHARNAME> le/la <RACE> de <CHARNAME> l'Enfant de la Prophétie.~
-@5261 = ~Ayant été proche de la mort plusieurs fois, je doute d'être immortel(le). Irenicus voulait une âme — une âme puissante, certes, qui avait une étincelle de « divinité » en elle — mais immortelle ? Il y a sûrement des âmes plus puissantes là-dehors. Certes, de telles choses auraient représenté un plus grand défi qu'un jeune Enfant-de-Bhaal à l'époque, mais l'arrogance d'Irenicus ne connaissait pas de limites. Regarde ce qu'il a essayé de faire aux Seldarine !~
+@5261 = ~Ayant été proche de la mort plusieurs fois, je doute d'être immortel(le). Irenicus voulait une âme — une âme puissante, certes, qui avait une étincelle de « divinité » en elle — mais immortelle ? Il y a sûrement des âmes plus puissantes là-dehors. Certes, de telles choses auraient représenté un plus grand défi qu'un jeune enfant de Bhaal à l'époque, mais l'arrogance d'Irenicus ne connaissait pas de limites. Regarde ce qu'il a essayé de faire aux Seldarine !~
 @5262 = ~<CHARNAME>, je suis en partie Tanar'ri. L'Abysse est ma patrie raciale. J'ai des liens de sang avec ce Plan.~
 @5263 = ~Tu vas pas devenir folle, hein ? Parce que je veux être le plus loin possible si c'est le cas.~
 @5264 = ~Eh bien...~
@@ -5339,7 +5339,7 @@ Elle fit un clin d'œil, quitta la chambre et je ne la revis jamais"~
 @5293 = ~C'est vrai, mais je peux pas m'empêcher de me demander et de m'inquiéter, un tout petit peu. Une partie de moi aime l'idée que tu sois immortel(le) — ça veut dire qu'on sera jamais séparé(e)s... mais c'est très égoïste de ma part. Je suppose que tout ce qu'on peut faire c'est jouer les rôles qui nous sont destinés et voir ce qui arrive.~
 @5294 = ~Je comprends pourquoi tu pourrais te sentir comme ça, mais tu es la personne la plus authentique que j'aie jamais rencontrée — tu es assurément *toi* ! Et ce qui te lie à cette Prophétie est évidemment fondamental à qui tu es... regarde juste autour de toi. Ça n'a pas été conjuré de nulle part.~
 @5295 = ~Je dois admettre que tout ça me dépasse. Je veux désespérément comprendre ce que tu représentes, mais plus j'essaie de te comprendre, plus je suis confus(e).~
-@5296 = ~C'est vrai... et puisque son intention finale était de toute façon d'attaquer à nouveau l'Arbre, l'âme d'un Enfant-de-Bhaal errant était facilement la cible la plus commode pour lui. Je parie qu'il regrette ce choix, où qu'il ait abouti !~
+@5296 = ~C'est vrai... et puisque son intention finale était de toute façon d'attaquer à nouveau l'Arbre, l'âme d'un enfant de Bhaal errant était facilement la cible la plus commode pour lui. Je parie qu'il regrette ce choix, où qu'il ait abouti !~
 @5297 = ~Je suppose que je dois quand même une sorte de gratitude à Irenicus. S'il ne t'avait pas pourchassé(e), il n'y aurait eu aucune raison pour que tu viennes à Athkatla et on ne se serait jamais rencontrés. Étrange comme le Destin fonctionne... comme de bonnes choses semblent venir de la misère.~
 @5298 = ~Je suppose que tout ça pourrait faire partie de ce « truc sur l'équilibre » dont Jaheira parle tout le temps. Pas que ça m'importe. Tant qu'on est ensemble, les choses peuvent pas aller si mal.~
 @5299 = ~Je suppose que tout ça pourrait faire partie de ce « truc sur l'équilibre » dont Cernd parle tout le temps. Pas que ça m'importe. Tant qu'on est ensemble, les choses peuvent pas aller si mal.~
@@ -5487,7 +5487,7 @@ Elle fit un clin d'œil, quitta la chambre et je ne la revis jamais"~
 @5441 = ~Je vois. Tu es en train de dire que tu... regrettes notre relation ? La vie serait tellement plus facile pour toi si t'avais pas à t'inquiéter pour moi.~
 @5442 = ~Je sais que j'ai, tu sais, craqué avant, avec le Massacreur et tout ça... mais je te promets, depuis qu'on a vaincu Irenicus j'ai été bien plus fort(e). Je suis pas sur le point de vous tailler tous en pièces, si c'est ta principale préoccupation.~
 @5443 = ~Gorion n'a peut-être jamais rien dit comme ça dans le passé, mais la Larve a obtenu l'information quelque part ! Est-ce que... est-ce que tu penses pas qu'elle avait peut-être un petit peu raison ?~
-@5444 = ~En tant que groupe de camarades, on est tellement habitués à ce que tu sois un Enfant-de-Bhaal... même quand on pourchassait Irenicus, je n'ai pas une seule fois considéré les vraies implications et répercussions de ton héritage. La Larve t'a même pas fait considérer ces choses ?~
+@5444 = ~En tant que groupe de camarades, on est tellement habitués à ce que tu sois un enfant de Bhaal... même quand on pourchassait Irenicus, je n'ai pas une seule fois considéré les vraies implications et répercussions de ton héritage. La Larve t'a même pas fait considérer ces choses ?~
 @5445 = ~Quelles bêtises tu racontes maintenant ?! La Larve était là pour me déstabiliser et me troubler — rien de plus ! Je pense vraiment que tu vois bien trop dans cette rencontre, vraiment.~
 @5446 = ~Je suppose. Même si c'était pas le vrai Gorion qui me parlait, les mots de la Larve avaient un certain mérite. Je n'aime pas ce sentiment d'être une marionnette au bout d'un fil, surtout quand je sais pas qui tient ce fil. Cependant, si je suis bien l'Enfant de la prophétie, il semblerait que j'aie pas le choix. Tout ce que je fais semble avoir été préordonné, en apparence.~
 @5447 = ~Des implications et répercussions ? Tu parles de la Prophétie d'Alaundo, hein ? Fade, je pense vraiment que t'as pas besoin de trop t'en préoccuper ! S'il te plaît, laisse-moi faire les inquiétudes pour nous deux — ça vaut pas la peine qu'on perde tous les deux le sommeil là-dessus.~
@@ -5508,7 +5508,7 @@ Elle fit un clin d'œil, quitta la chambre et je ne la revis jamais"~
 @5462 = ~Qu'est-ce que tu veux dire ? Est-ce que tu... veux qu'on soit déchirés ? Est-ce que c'est devenu trop pour toi ?~
 @5463 = ~Mais tu vois pas ? Tu réalises pas ? Ce que la Larve a dit devait venir de quelque part ! C'est facile de dire que tu réalises que Gorion ne te parlerait jamais de cette façon... mais ces peurs devaient se tapir en toi pour que la Larve les utilise contre toi en premier lieu. Et c'est probablement encore plus inquiétant que si ça avait vraiment été Gorion qui te critiquait !~
 @5464 = ~Quoi ? Fade, je pense vraiment, vraiment que tu dois te calmer ! Maintenant je *sais* que tu vois trop dans cette rencontre ! Juste... laisse tomber, d'accord ? Tout ça est derrière nous maintenant — regardons vers l'avenir plutôt que de disséquer le passé.~
-@5465 = ~(soupir) Tu parles de toutes ces âneries sur la Prophétie, hein ? Je sais que beaucoup de gens semblent penser que je suis l'Enfant de la Prophétie d'Alaundo, mais ils pensent ça de chaque Enfant-de-Bhaal puissant ! Ça pourrait faire référence à *n'importe lequel* d'entre nous à long terme. Comment sait-on si la Larve ne ferait pas exactement la même chose à Yaga Shura s'il venait ici ?~
+@5465 = ~(soupir) Tu parles de toutes ces âneries sur la Prophétie, hein ? Je sais que beaucoup de gens semblent penser que je suis l'Enfant de la Prophétie d'Alaundo, mais ils pensent ça de chaque enfant de Bhaal puissant ! Ça pourrait faire référence à *n'importe lequel* d'entre nous à long terme. Comment sait-on si la Larve ne ferait pas exactement la même chose à Yaga Shura s'il venait ici ?~
 @5466 = ~Je dois admettre, je n'avais jamais considéré ça sous cet angle avant. Je suppose que t'as un point. Oui, je me demande et m'inquiète de comment Gorion aurait réagi à ce que je suis devenu(e), mais la Larve insinuait bien d'autres choses... d'autres choses que je peux honnêtement dire que je n'ai *jamais* considérées. Dans l'ensemble, je pense qu'on devrait pencher du côté du scepticisme. Un examen et une analyse constants sont sûrs de te rendre un peu inquiet(e), et j'ose dire, paranoïaque.~
 @5467 = ~Et c'est ça qui m'inquiète le plus, <CHARNAME>, que tu n'as pas ton mot à dire dans ce qui se passe. Je suis pas très philosophe, comme tu sais, mais ce manque de choix peut pas être une bonne chose.~
 @5468 = ~Je sais que ça sonne horriblement égoïste, mais qu'est-ce qui se passe si tu dois choisir entre ce qu'on a et l'accomplissement de ton destin supposé ? Est-ce que tu auras même le choix, je me demande...~
@@ -5519,7 +5519,7 @@ Elle fit un clin d'œil, quitta la chambre et je ne la revis jamais"~
 @5473 = ~Je... j'ai peur, <CHARNAME>, peur que tout ça finisse par nous déchirer. Je sais que ça sonne horriblement égoïste, mais qu'est-ce qui se passe si tu dois choisir entre ce qu'on a et l'accomplissement de ton destin supposé ? Est-ce que tu auras même le choix, je me demande...~
 @5474 = ~Non ! Je dis pas ça du tout ! En fait, je suppose que je dis exactement l'opposé... j'ai peur que la Prophétie te prenne à moi, plutôt que l'inverse.~
 @5475 = ~Ma principale préoccupation c'est que ce que la Larve a dit devait venir de quelque part ! C'est facile de dire que tu réalises que Gorion ne te parlerait jamais de cette façon... mais ces peurs devaient se tapir en toi pour que la Larve les utilise contre toi en premier lieu. Et c'est probablement encore plus inquiétant que si ça avait vraiment été Gorion qui te critiquait !~
-@5476 = ~Je sais que beaucoup de gens semblent penser que je suis l'Enfant de la Prophétie d'Alaundo, mais ils pensent ça de chaque Enfant-de-Bhaal puissant ! Ça pourrait faire référence à *n'importe lequel* d'entre nous à long terme. Comment sait-on si la Larve ne ferait pas exactement la même chose à Yaga Shura s'il venait ici ?~
+@5476 = ~Je sais que beaucoup de gens semblent penser que je suis l'Enfant de la Prophétie d'Alaundo, mais ils pensent ça de chaque enfant de Bhaal puissant ! Ça pourrait faire référence à *n'importe lequel* d'entre nous à long terme. Comment sait-on si la Larve ne ferait pas exactement la même chose à Yaga Shura s'il venait ici ?~
 @5477 = ~Oh, <CHARNAME>... c'est pas du tout ce que je voulais dire. Je sais que tu me ferais jamais de mal intentionnellement, et je réalise que toute l'histoire du Massacreur était pas de ta faute.~
 @5478 = ~Je fais en fait référence à la Prophétie à laquelle la Larve déguisée en Gorion a fait allusion. Je me suis jamais une seule fois dans le passé arrêtée à penser à ta part dans tout ça, et ça vient seulement de me frapper à quel point tout ça est énorme. Je... j'ai peur, <CHARNAME>, peur que tout ça finisse par nous déchirer...~
 @5479 = ~Fade, ça n'arrivera tout simplement pas ! Je pense vraiment, vraiment que tu dois te calmer et y réfléchir rationnellement — maintenant je *sais* que tu vois trop dans tout ça ! Juste... laisse tomber, d'accord ? Tout ça est derrière nous maintenant — regardons vers l'avenir plutôt que de disséquer le passé.~
@@ -5599,7 +5599,7 @@ Elle fit un clin d'œil, quitta la chambre et je ne la revis jamais"~
 @5553 = ~Ouais, naturel. Et ta consternation face à ce qui s'est passé à Saradush est aussi naturelle, mais maintenant il est temps de passer à autre chose. On a beaucoup à faire.~
 @5554 = ~Je... je sais pas. Mais parfois c'est si difficile... quand tout ce que tu peux entendre c'est les cris des blessés et tout ce que tu peux sentir c'est du sang chaud et frais, tout autour de toi est saturé de chaos pur...~
 @5555 = ~Je sens l'attraction, <CHARNAME>, que ce soit ici dans cette ville maudite des dieux ou dans ce sacré plan de poche. Parfois j'ai l'impression que tous les Royaumes sont là-dehors juste pour me tenter de revenir à mes vieilles habitudes. J'essaie de le nier, mais ça me suit partout, comme une sorte d'ombre corrompue.~
-@5556 = ~Chaque *petite* chose ? J'appelle pas une ville entière quelque chose de *petit* ! Oh, mais c'est vrai. Le grand et important Enfant-de-Bhaal n'a tout simplement pas le temps de s'inquiéter des vies qu'il a ruinées dans sa quête de pouvoir, n'est-ce pas ?!~
+@5556 = ~Chaque *petite* chose ? J'appelle pas une ville entière quelque chose de *petit* ! Oh, mais c'est vrai. Le grand et important enfant de Bhaal n'a tout simplement pas le temps de s'inquiéter des vies qu'il a ruinées dans sa quête de pouvoir, n'est-ce pas ?!~
 @5557 = ~Fais très, très attention à ce que tu dis ensuite, Fey'ri !~
 @5558 = ~(Fade te regarde avec des yeux mauvais et tu vois les coins de sa bouche commencer à se tordre en un vilain grognement. Soudainement elle se détourne de toi, respirant lourdement.)~
 @5559 = ~<CHARNAME>, je... c'est si difficile... quand tout ce que tu peux entendre c'est les cris des blessés et tout ce que tu peux sentir c'est du sang chaud et frais, tout autour de toi est saturé de chaos pur...~
@@ -5816,7 +5816,7 @@ Elle fit un clin d'œil, quitta la chambre et je ne la revis jamais"~
 @5770 = ~(lui sourit et lorgne son décolleté) Pas besoin de souhaiter un lit confortable... j'ai déjà un endroit *très* confortable pour reposer ma tête la nuit... pourquoi voudrais-je aller ailleurs ?~
 @5771 = ~Je dirais que tu as déjà le côté "santé et richesse" bien couvert. Je n'ai jamais connu quelqu'un d'aussi vital que toi, et tu ne manques certainement pas d'or. Il ne reste que le bonheur...~
 @5772 = ~(sourire) Fade, je suis parfaitement heureux avec toi — ne t'inquiète pas ! C'est le reste de ma vie que je dois maintenant régler.~
-@5773 = ~Je ne manque peut-être pas d'or, mais je contesterais le côté "santé". Être un Enfant de Bhaal signifie que je suis peut-être physiquement en bonne santé, mais dans d'autres domaines...~
+@5773 = ~Je ne manque peut-être pas d'or, mais je contesterais le côté "santé". Être un enfant de Bhaal signifie que je suis peut-être physiquement en bonne santé, mais dans d'autres domaines...~
 @5774 = ~On dirait que tu es mon petit djinn, vu que mes trois vœux ont déjà été exaucés ! Comme tu dis, je suis en bonne santé, riche et parfaitement heureux en ce moment. J'ai l'aventure, et je t'ai toi. Que pourrais-je vouloir de plus ?~
 @5775 = ~(Elle te regarde d'un air perspicace, un sourire légèrement malicieux tirant les coins de sa bouche.) Oui, n'importe quoi... dans la limite du raisonnable, bien sûr !~
 @5776 = ~Dans ce cas, je pense que je vais prendre le package de base — santé, richesse et bonheur.~
@@ -6117,7 +6117,7 @@ Elle fit un clin d'œil, quitta la chambre et je ne la revis jamais"~
 @6071 = ~Je ne te ferais jamais ça !~
 @6072 = ~Les enfants sont une bénédiction, pas le fardeau que tu en fais ! Ne sois pas si pessimiste sur de telles choses.~
 @6073 = ~Mon regard ne serait jamais attiré par quelqu'un d'autre... jamais. Pas tant que je t'ai.~
-@6074 = ~Tu crois que j'ai pas pensé que mon enfant pourrait avoir des traits démoniaques ? Bien sûr que si ! Mais garde à l'esprit que tu parles à un Enfant de Bhaal. Je pense que des appendices supplémentaires devraient être le dernier de nos soucis. Mais ce serait *notre* enfant, et je l'aimerais peu importe quoi. Tout comme je t'aime. Inconditionnellement et pour toujours.~
+@6074 = ~Tu crois que j'ai pas pensé que mon enfant pourrait avoir des traits démoniaques ? Bien sûr que si ! Mais garde à l'esprit que tu parles à un enfant de Bhaal. Je pense que des appendices supplémentaires devraient être le dernier de nos soucis. Mais ce serait *notre* enfant, et je l'aimerais peu importe quoi. Tout comme je t'aime. Inconditionnellement et pour toujours.~
 @6075 = ~Mais que ferais-tu si ça arrivait quand même ? Je ne suis peut-être pas enceinte maintenant, mais on ne sait jamais ce qui pourrait se passer dans l'avenir.~
 @6076 = ~Pourquoi ça t'inquiète autant ? Tu veux des enfants ?~
 @6077 = ~Pourquoi tu as même soulevé ça ? Est-ce que la perspective d'enfants t'inquiète à ce point ?~
@@ -6695,7 +6695,7 @@ Elle fit un clin d'œil, quitta la chambre et je ne la revis jamais"~
 @6649 = ~Ouais, peu importe. Réponds juste à la question.~
 @6650 = ~(Sarevok a l'air légèrement amusé). Tu as donc quand même du caractère, après tout. Non, ça ne me *dérange* pas le moins du monde ce que les autres pensent. Je reste ici à la tolérance de <CHARNAME>, et c'est tout ce qui importe. Les autres peuvent aller pourrir.~
 @6651 = ~Tu mens. Ça *t'importe* bien.~
-@6652 = ~Tu sais comment je le sais ? Ça se voit dans tes yeux. La blessure. La solitude. Je sais. Parce que moi aussi je le ressens. Tout comme toi, j'ai dû tuer chacun de mes frères et sœurs qui ont croisé mon chemin. Comme toi, les gens me regardent et frissonnent et se détournent. Ils chuchotent dans mon dos. Je ne suis pas un Enfant de Bhaal, mais je sais ce que ça fait de *ne pas* appartenir. Je voulais juste que tu le saches.~
+@6652 = ~Tu sais comment je le sais ? Ça se voit dans tes yeux. La blessure. La solitude. Je sais. Parce que moi aussi je le ressens. Tout comme toi, j'ai dû tuer chacun de mes frères et sœurs qui ont croisé mon chemin. Comme toi, les gens me regardent et frissonnent et se détournent. Ils chuchotent dans mon dos. Je ne suis pas un enfant de Bhaal, mais je sais ce que ça fait de *ne pas* appartenir. Je voulais juste que tu le saches.~
 @6653 = ~(lentement) Alors peut-être qu'on a *bien* plus en commun que je ne le pensais au départ.~
 @6654 = ~(avec viciosité) Mais ça ne change rien. Je pense toujours que tu es une idiote.~
 @6655 = ~(hausse les épaules) Ça me va. On peut quand même être amis.~
